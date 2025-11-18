@@ -1,0 +1,5 @@
+{
+  "name": "Azilut - Catálogo de Flota y Maquinaria",
+  "description": "Una aplicación web para visualizar y exportar el catálogo de vehículos y maquinaria de alquiler de Azilut. Permite ver fichas detalladas de cada equipo y exportar listados en PDF y Excel.",
+  "requestFramePermissions": []
+}
